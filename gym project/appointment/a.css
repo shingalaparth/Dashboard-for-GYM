@@ -1,0 +1,66 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Public+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: "Public Sans", sans-serif;
+    
+}
+
+/* navbar */
+#id{
+    display: flex;
+}
+#id nav{
+    /* border: 1px solid black; */
+    box-shadow: 5px 0 10px rgba(0, 0, 0, 0.5);
+;
+    height: 929px;
+    width: 300px;
+}
+#id nav .title{
+    padding: 50px;
+    font-weight: 900;
+}
+#id nav .title h2{
+    font-size: xx-large;
+    
+}
+#id nav .navbarofdash{
+    margin: 50px; 
+}
+#id nav .navbarofdash ul{
+    list-style: none;
+    font-size: large;
+}
+#id nav .navbarofdash ul li{
+    margin-top: 30px;
+}
+ #id nav .navbarofdash button{
+    margin-top: 200px ;
+    height: 40px;
+    width: 180px;
+    border-radius: 40px;
+ }
+
+#id .appointment{
+    margin: 40px;
+}
+
+#id .appointment .appointmenttitle{
+    margin: 20px;
+    line-height: 40px;
+
+}
+
+
+#id .appointment .mainpartofA .partoneA{
+    height:  1384px;
+    width: 1208px;
+    margin: 20px;
+
+}
+
